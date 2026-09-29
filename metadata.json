@@ -1,0 +1,6 @@
+{
+  "name": "NEURO — 3D Interactive Human Brain Experience",
+  "description": "A cinematic, interactive 3D exploration of the human brain. Explore anatomical lobes, deep structures, neural connectome pathways, microscopic synapses, cerebral blood vessels, and functional cognitive activity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
